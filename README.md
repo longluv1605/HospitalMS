@@ -8,7 +8,7 @@
 
 ### Step 3: run `create_records.py`
 
-#### You can skip step 2&3 using `https://drive.google.com/file/d/1ZbF5OTUG4Of0oyhzxE1AT2puwiKTHANJ/view?usp=drive_link`
+#### You can skip step 2&3 using [link](https://drive.google.com/file/d/1ZbF5OTUG4Of0oyhzxE1AT2puwiKTHANJ/view?usp=drive_link)
 
 ### Final : run `hospital.py`
 
